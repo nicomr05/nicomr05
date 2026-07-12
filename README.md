@@ -41,13 +41,13 @@
 </div>
 
 ###
-
+<!-- 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicomr05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=true&order=2&custom_title=My%20languages" height="300" alt="languages graph"  />
 </div>
 
 ###
-
+-->
 <br clear="both">
 
 <div>
