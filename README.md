@@ -8,8 +8,6 @@
 
 <br clear="both">
 
-<img align="left" height="450" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn3.vectorstock.com%2Fi%2F1000x1000%2F61%2F72%2Fnerd-face-emoji-clever-emoticon-with-glasses-vector-28926172.jpg&f=1&nofb=1&ipt=1ca2942d346baf17fbb5c68d199c0d6e0900388d39e90d797fa2937ac44d431c"  />
-
 ###
 
 <div align="center">
